@@ -16,3 +16,8 @@ Sawmill is a JSON transformation open source library.
 It enables you to enrich, transform, and filter your JSON documents.
 [Sawmill](https://github.com/logzio/sawmill/wiki)
 
+## Object Mappers (Java)
+
+### ReMap
+A declarative object mapper
+[ReMap](https://github.com/remondis-it/remap)
